@@ -16,7 +16,7 @@
 
 <h4>FrameWork</h4>
 <p align="left">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot-&logoColor=white">
+  <img src="https://img.shields.io/icons/springboot-6DB33F?style=for-the-badge&logo=springboot-&logoColor=white">
 </p>
 
 <h4>Tools</h4>
