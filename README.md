@@ -5,8 +5,6 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
 <h4>Languages</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
