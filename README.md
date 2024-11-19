@@ -53,11 +53,24 @@
   
   
   <h3>works</h3>
-
-  <div style="border: 2px solid black; padding: 10px;">
-    여기에 내용이 들어갑니다.
-  </div>
-
+  <table>
+    <theader>
+      <tr>
+        <th>
+          works
+        </th>
+      </tr>
+    </th>
+    <tbody>
+      <tr>
+        <td>
+          <p>프로젝트 : <a href="https://github.com/ysh195/actionPrice-portfolio.git">actionPrice</a></p>
+          <p>설명 : 농수산축산물 도매가격 조회 웹사이트</p>
+          <p>기술스택 : 리액트, 자바, 스프링부트, MYSQL, UBUNTU</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
   <div align="left" display="block" style="border:1px solid">
     <p>프로젝트 : <a href="https://github.com/ysh195/actionPrice-portfolio.git">actionPrice</a></p>
