@@ -54,6 +54,11 @@
   
   <h3>works</h3>
 
+  <div style="border: 2px solid #007BFF; padding: 10px; border-radius: 8px; background-color: #f4f7fa;">
+    여기에 내용이 들어갑니다.
+  </div>
+
+
   <div align="left" display="block" style="border:1px solid">
     <p>프로젝트 : <a href="https://github.com/ysh195/actionPrice-portfolio.git">actionPrice</a></p>
     <p>설명 : 농수산축산물 도매가격 조회 웹사이트</p>
