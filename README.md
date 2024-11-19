@@ -55,7 +55,7 @@
   <h3>works</h3>
 
   <div align="left">
-    <p>프로젝트 : ![actionPrice](https://github.com/ysh195/actionPrice-portfolio.git) </p>
+    <p>프로젝트 : actionPrice</p>
     <p>링크 : <a href="https://github.com/ysh195/actionPrice-portfolio.git">https://github.com/ysh195/actionPrice-portfolio.git</a></p>
     <p>설명 : 농수산축산물 도매가격 조회 웹사이트</p>
     <p>기술스택 : 리액트, 자바, 스프링부트, MYSQL, UBUNTU</p>
