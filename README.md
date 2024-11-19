@@ -1,16 +1,15 @@
 <div align="center">  
   <h1 align="center">Hi 👋, I'm SangHun Yeon</h1>
-  
-  <p align="left">
-  </p>
-  
-  <h4>Languages</h4>
-  <p align="left">
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-  
-  </p>
+
+  <div>
+    <h4>Languages</h4>
+    <p align="left">
+      <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">  
+    </p>
+  </div>
+    
   
   <h4>FrameWorks</h4>
   <p align="left">
