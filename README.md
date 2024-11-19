@@ -52,13 +52,11 @@
   
   
   
-  <div>
-    <h3>works</h3>
-  
-    <div align="left">
-      project : actionPrice  
-      link : <a href="https://github.com/ysh195/actionPrice-portfolio.git">https://github.com/ysh195/actionPrice-portfolio.git</a>
-    </div>
-    
+  <h3>works</h3>
+
+  <div align="left">
+    project : actionPrice  
+    link : <a href="https://github.com/ysh195/actionPrice-portfolio.git">https://github.com/ysh195/actionPrice-portfolio.git</a>
   </div>
+    
 </div>
