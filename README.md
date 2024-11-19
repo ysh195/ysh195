@@ -53,11 +53,11 @@
   
   
   <h3>works</h3>
-  <table>
+  <table width=100%>
     <theader>
       <tr>
         <th>
-          works
+          <h3>works</h3>
         </th>
       </tr>
     </th>
@@ -71,11 +71,5 @@
       </tr>
     </tbody>
   </table>
-
-  <div align="left" display="block" style="border:1px solid">
-    <p>프로젝트 : <a href="https://github.com/ysh195/actionPrice-portfolio.git">actionPrice</a></p>
-    <p>설명 : 농수산축산물 도매가격 조회 웹사이트</p>
-    <p>기술스택 : 리액트, 자바, 스프링부트, MYSQL, UBUNTU</p>
-  </div>
     
 </div>
