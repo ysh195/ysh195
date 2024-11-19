@@ -54,7 +54,7 @@
   
   <h3>works</h3>
 
-  <div style="border: 2px solid #007BFF; padding: 10px; border-radius: 8px; background-color: #f4f7fa;">
+  <div style="border: 2px solid black; padding: 10px;">
     여기에 내용이 들어갑니다.
   </div>
 
