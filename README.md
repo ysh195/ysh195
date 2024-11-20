@@ -46,7 +46,7 @@
   
   <div>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysh195&layout=compact)    
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysh195&layout=compact&theme=dark)    
     
   </div>
 
