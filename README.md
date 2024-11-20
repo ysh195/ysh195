@@ -46,7 +46,7 @@
   
   <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysh195&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysh195&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
     
   </div>
 
