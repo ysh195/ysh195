@@ -68,5 +68,13 @@
       </tr>
     </tbody>
   </table>
+|works|  
+|---|---|
+|프로젝트|actionPrice|
+|설명|농수산축산물 도매가격 조회 웹사이트|
+|기술스택|리액트, 자바, 스프링부트, MYSQL, UBUNTU|
+      
+|![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)|
+
     
 </div>
