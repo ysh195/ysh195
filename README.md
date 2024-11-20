@@ -70,5 +70,3 @@
   </table>
     
 </div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ysh195&repo=actionPrice-portfolio&theme=transparent)](https://github.com/ysh195/actionPrice-portfolio.git)
