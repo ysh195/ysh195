@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">  
   </p>
     
-  
   <h4>FrameWorks</h4>
   <p align="center">
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -20,7 +19,6 @@
   <p align="center">  
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-    <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
     
   </p>
   
@@ -30,6 +28,7 @@
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   </p>
+  #61DAFB
   
   <h4>MarkUp Language</h4>
   <p align="center">
@@ -49,6 +48,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysh195&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
     
   </div>
+  #61DAFB
 
   <table width=100%>
     <theader>
@@ -63,7 +63,7 @@
         <td>
           <p>프로젝트 : <a href="https://github.com/ysh195/actionPrice-portfolio.git">actionPrice</a></p>
           <p>설명 : 농수산축산물 도매가격 조회 웹사이트</p>
-          <p>기술스택 : 리액트, 자바, 스프링부트, MYSQL, UBUNTU</p>
+          <p>기술스택 : <img src="https://img.shields.io/badge/react-#61DAFBstyle=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-#E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> </p>
         </td>
       </tr>
     </tbody>
