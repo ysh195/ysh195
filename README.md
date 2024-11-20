@@ -39,14 +39,14 @@
 
   <div>
 
-  ![ysh195's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysh195&show_icons=true)
+  ![ysh195's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysh195&show_icons=true&theme=transparent)
     
   </div>
 
   
   <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysh195&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysh195&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
     
   </div>
 
